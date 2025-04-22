@@ -175,6 +175,9 @@ body {
         padding-right: calc(50vw - 260px)
     }
 
+    .rider {
+        padding: 10px 60px 1px 10px;
+    }
     .header {
         padding-top: 20px;
     }
